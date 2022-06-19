@@ -21,7 +21,6 @@ body {
 
 .logo {
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 700;
 font-size: 26px;
 line-height: 1.19;
@@ -90,11 +89,11 @@ color: #000;
 }
 
 .hero-title {
-        font-weight: 900;
-        font-size: 44px;
-        line-height: 1.36;
-        letter-spacing: 0.06em;
-        color: var(--background-color);
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    color: var(--background-color);
 }
 
 /* our features */
@@ -109,10 +108,10 @@ color: #000;
 
 .features-title .title {
     font-weight: 400;
-        font-size: 14px;
-        line-height: 1.7;
-        letter-spacing: 0.03em;
-        color: var(--secondary-text-color);
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    color: var(--secondary-text-color);
 }
 
 /* section */
@@ -150,7 +149,6 @@ color: #000;
 
 .footer-logo {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
@@ -163,7 +161,6 @@ color: #000;
 }
 
 .adress-text {
-    font-family: 'Roboto';
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
