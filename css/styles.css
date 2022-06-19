@@ -121,6 +121,7 @@ color: #000;
 /* our features */
 
 .title {
+    font-size: 14px;
     text-transform: uppercase;
     font-weight: 700;
     line-height: 1.14;
@@ -191,6 +192,9 @@ color: #000;
     font-style: normal;
 }
 
+.adress a {
+    text-decoration: none;
+}
 
 .adress-link {
     font-weight: 400;
